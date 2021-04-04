@@ -1,5 +1,5 @@
 {
     "debug": false,
     "environment": "dev",
-    "connectionString": "mongodb+srv://ekrem:ZxDQDpQl3Ni1vqzV@go-with-mongodb.8vfnz.mongodb.net/CoinDB?retryWrites=true&w=majority"
+    "connectionString": ""
 }
